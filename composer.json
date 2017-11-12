@@ -14,7 +14,7 @@
   "repositories": [
     {
 		"type": "composer",
-		"url": "https://github.com/supravatm/m2-module-helloworld"
+		"url": "https://github.com/supravatm/m2-module-helloworld.git"
     }
   ],
   "extra": {
