@@ -10,6 +10,13 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+		"type": "vcs",
+		"url": "https://github.com/youraccount/yourmodule-repository"
+    }
+  ],
   "extra": {
         "map": [
             [
