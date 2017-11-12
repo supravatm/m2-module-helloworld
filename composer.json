@@ -1,6 +1,6 @@
 {
   "name": "supravatm/magento-2-sample-helloworld-extension",
-  "description": "Magento 2 Banner Helloworld Extension",
+  "description": "Magento 2 Helloworld Extension",
   "require": {
     "magento/project-enterprise-edition": "*"
   },
